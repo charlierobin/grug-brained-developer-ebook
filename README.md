@@ -2,7 +2,7 @@
  
 grug-admirer want version of grug’s thoughts he can sometimes read on his kindle or ipad. then he discover how rubbish ipad create pdf from site is (grug-admirer have old kindle and older ipad, not interested in getting newer ones, maybe fixed)
 
-grug-admirer like books like [code complete](https://en.wikipedia.org/wiki/Code_Complete) and [art of unix programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programmingd) (and lots other books but those first two that picture in brain), think grug’s thoughts also very good and worth reminding oneself every now and then as so easy to drift away and forget espcially as years pass and turn into old fart
+grug-admirer like books like [code complete](https://en.wikipedia.org/wiki/Code_Complete) and [art of unix programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) (and lots other books but those first two that picture in brain), think grug’s thoughts also very good and worth reminding oneself every now and then as so easy to drift away and forget espcially as years pass and turn into old fart
 
 so he spend a little time creating version you see here, just for himself
 
