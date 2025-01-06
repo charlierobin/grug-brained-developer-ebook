@@ -12,7 +12,10 @@ he hope original grug not get angry and reach for club but of course he understa
 
 ebook created and edited using vellum, because although grug-admirer realise calibre very powerful etc, it give him headache to use (see part 2 grug’s writings)
 
-[All original grug words and spaces and cave wall paintings and copyright from here:](https://grugbrain.dev)
+[all original grug words and spaces and cave wall paintings and copyright from here:](https://grugbrain.dev)
 
 https://grugbrain.dev
 
+grug-admirer also not realise until he idly look that grug page source hosted on github, duh, check check always CHECK ...
+
+[so you can also look here for book in markdown (although me still want my version)](https://github.com/bigskysoftware/grugbrain.dev)
