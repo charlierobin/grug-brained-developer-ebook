@@ -10,12 +10,9 @@ then he think that perhaps there other grug-admirers grug-apprentices grug-wanna
 
 he hope original grug not get angry and reach for club but of course he understand if told remove
 
-ebook created and edited using vellum, because although grug-admirer realise calibre very powerful etc, it give him headache to use
+ebook created and edited using vellum, because although grug-admirer realise calibre very powerful etc, it give him headache to use (see part 2 grug’s writings)
 
-[All original grug words and spaces and copyright from here:](https://grugbrain.dev)
+[All original grug words and spaces and cave wall paintings and copyright from here:](https://grugbrain.dev)
 
 https://grugbrain.dev
-
-
-
 
